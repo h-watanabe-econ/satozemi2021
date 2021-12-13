@@ -1,0 +1,143 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1606810517158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/settings.ini" timestamp="1607928905251">
+        <mark key="[" line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/main.py" timestamp="1604391215563">
+        <mark key="[" line="26" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/0707/mysite/polls/urls.py" timestamp="1625645061756">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/app/views/chart.html" timestamp="1635048035018">
+        <mark key="[" line="132" column="65" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/0709/mysite/polls/views.py" timestamp="1625831363208">
+        <mark key="[" line="7" column="66" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/0707/mysite/mysite/urls.py" timestamp="1625647404150">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/requirements.txt" timestamp="1625634237789">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/app/models/events.py" timestamp="1604193513708">
+        <mark key="[" line="43" column="49" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1625635111934">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1607051106464">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/app/controllers/streamdata.py" timestamp="1603881846494">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/0707/mysite/manage.py" timestamp="1625645295870">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/app/models/candles.py" timestamp="1603879405294">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/app/models/base.py" timestamp="1603972298288">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/0709/mysite/mysite/urls.py" timestamp="1625830921748">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/app/controllers/ai.py" timestamp="1607928915049">
+        <mark key="[" line="84" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/0709/mysite/mysite/settings.py" timestamp="1625996878591">
+        <mark key="[" line="108" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/0709/mysite/polls/urls.py" timestamp="1625830910961">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/app/models/__init__.py" timestamp="1603753279624">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/0709/mysite/polls/models.py" timestamp="1625997016494">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/post_example/utils/requirements.txt" timestamp="1625634245614">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyfxtrading/LSTM/LSTM.py" timestamp="1607865887018">
+        <mark key="[" line="254" column="62" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/0707/Pipfile" timestamp="1625644548122">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/0707/mysite/polls/views.py" timestamp="1625647208318">
+        <mark key="[" line="1" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="46" column="19" filename="$USER_HOME$/PycharmProjects/pyfxtrading/oanda/oanda.py" />
+      <jump line="169" column="21" filename="$USER_HOME$/PycharmProjects/pyfxtrading/oanda/oanda.py" />
+      <jump line="30" column="4" filename="$USER_HOME$/PycharmProjects/pyfxtrading/main.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgc2lkZT0nJywK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2lkZT0nJywK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">dGltZXN0YW1wID0gZGF0ZXRpbWUudGltZXN0YW1wKAogICAgICAgICAgICBkYXRldXRpbC5wYXJzZXIucGFyc2UocmVzcFsndGltZSddKSkKICAgICAgICBwcmljZSA9IHJlc3BbJ3ByaWNlcyddWzBdCiAgICAgICAgaW5zdHJ1bWVudCA9IHByaWNlWydpbnN0cnVtZW50J10KICAgICAgICBiaWQgPSBmbG9hdChwcmljZVsnYmlkcyddWzBdWydwcmljZSddKQogICAgICAgIGFzayA9IGZsb2F0KHByaWNlWycnXVswXVsncHJpY2UnXSkKICAgICAgICAgICA=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLmFjY291bnRfaWQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNldHRpbmdzLmFjY2Vzc190b2tlbikK</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx0aWNrZXJcPg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDx0aWNrZXJcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx0aWNrZXJcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDx0aWNrZXJcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
